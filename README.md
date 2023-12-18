@@ -1,4 +1,4 @@
-# Conta Corrente Com GO
+# Conta Corrente Em GO
 
 > Status do projeto: Em desenvolvimento
 
