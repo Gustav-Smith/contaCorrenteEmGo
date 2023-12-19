@@ -1,8 +1,8 @@
-# Conta Corrente Em GO
+# Current Account in GO
 
-> Status do projeto: Em desenvolvimento
+> Project status: In development
 
-Para rodar esse projeto na sua máquina, por favor digite:
+To run this project on your machine, please type:
 
 ```
 run go main.go
